@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace MidtermExam
 {
-    class Program
+    class Program:Car
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
