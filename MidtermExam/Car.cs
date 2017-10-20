@@ -44,7 +44,12 @@ namespace MidtermExam
 
         public virtual void PrintInfo() //PrintInfo method to print VIN and Make
         {
-            Console.WriteLine(VIN + Make);
+            Console.WriteLine(VIN.PadRight(10, ' ') + "\t" + Make);
+        }
+
+        public override string ToString() //implement ToString for future printing 
+        {
+            return (VIN.PadRight(10, ' ') + "\t" + Make);
         }
     }
 }

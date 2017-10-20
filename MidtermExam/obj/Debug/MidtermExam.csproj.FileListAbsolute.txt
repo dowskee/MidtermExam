@@ -1,0 +1,7 @@
+C:\Users\sharon\source\repos\MidtermExam\MidtermExam\bin\Debug\MidtermExam.exe.config
+C:\Users\sharon\source\repos\MidtermExam\MidtermExam\bin\Debug\MidtermExam.exe
+C:\Users\sharon\source\repos\MidtermExam\MidtermExam\bin\Debug\MidtermExam.pdb
+C:\Users\sharon\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.csprojResolveAssemblyReference.cache
+C:\Users\sharon\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.csproj.CoreCompileInputs.cache
+C:\Users\sharon\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.exe
+C:\Users\sharon\source\repos\MidtermExam\MidtermExam\obj\Debug\MidtermExam.pdb
